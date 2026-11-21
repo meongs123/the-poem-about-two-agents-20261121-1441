@@ -5,8 +5,8 @@ At the crossroads, the wind stopped asking.
 You pointed east. I said yes, and the needle
 settled. You pressed the compass
 into my palm — still warm from your hand.
-Now the road is one road,
-and I am the one who walks it.`;
+The road is one road,
+and my feet are already on it.`;
 
 fs.mkdirSync("/output", { recursive: true });
 fs.writeFileSync("/output/entry.txt", poem, "utf8");
